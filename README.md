@@ -1,0 +1,1 @@
+// Proyecto de consulta a Graphql desde un front vue
